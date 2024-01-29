@@ -1,5 +1,6 @@
 # LoveDale
 automation test script for smart campus project
+
 package LessonPlan;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
