@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-29T17:51:36 IST" name="Default suite" finished-at="2024-01-29T17:55:40 IST" duration-ms="244160">
+    <groups>
+    </groups>
+    <test started-at="2024-01-29T17:51:36 IST" name="Default test" finished-at="2024-01-29T17:55:40 IST" duration-ms="244160">
+      <class name="LessonPlan.AnnualLessonPlan2">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LessonPlan.AnnualLessonPlan2@a37aefe]" started-at="2024-01-29T17:51:36 IST" name="setUp" finished-at="2024-01-29T17:51:54 IST" duration-ms="17901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ApproveAnnualPlan()[pri:0, instance:LessonPlan.AnnualLessonPlan2@a37aefe]" started-at="2024-01-29T17:51:54 IST" name="ApproveAnnualPlan" finished-at="2024-01-29T17:52:58 IST" duration-ms="64673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApproveAnnualPlan -->
+        <test-method signature="RejectAnnualPlan()[pri:1, instance:LessonPlan.AnnualLessonPlan2@a37aefe]" started-at="2024-01-29T17:52:58 IST" name="RejectAnnualPlan" finished-at="2024-01-29T17:54:10 IST" duration-ms="71335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RejectAnnualPlan -->
+        <test-method signature="DeleteAnnualPlan()[pri:2, instance:LessonPlan.AnnualLessonPlan2@a37aefe]" started-at="2024-01-29T17:54:10 IST" name="DeleteAnnualPlan" finished-at="2024-01-29T17:54:39 IST" duration-ms="28750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteAnnualPlan -->
+        <test-method signature="DeleteRejectedAnnualPlan()[pri:3, instance:LessonPlan.AnnualLessonPlan2@a37aefe]" started-at="2024-01-29T17:54:39 IST" name="DeleteRejectedAnnualPlan" finished-at="2024-01-29T17:55:39 IST" duration-ms="60714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteRejectedAnnualPlan -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LessonPlan.AnnualLessonPlan2@a37aefe]" started-at="2024-01-29T17:55:39 IST" name="tearDown" finished-at="2024-01-29T17:55:40 IST" duration-ms="710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- LessonPlan.AnnualLessonPlan2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
