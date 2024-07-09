@@ -39,7 +39,7 @@ public void setUp() throws InterruptedException
 {	driver = new FirefoxDriver();
  	js = (JavascriptExecutor) driver;
  	vars = new HashMap<String, Object>();
-	driver.get("http://65.2.69.85:8080/smartcampus/login");
+	driver.get("TYPE URL HERE");
     logger.log(LogStatus.INFO, "application started up and running");
     logger.log(LogStatus.INFO, "reached login page");
     //driver.manage().window().setSize(new Dimension(1310, 741));
